@@ -1,4 +1,4 @@
-//This script ingests a text file and creates a new text layer for each line.
+//This script adds a fade-in and fade-out to each clip in selected layers. 
 // Steps:
 // 1. Save this script in any location.
 // 2. Highlight (or click into) the relevant composition.
